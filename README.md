@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! 
 
-<!--
-**pedrohaas/pedrohaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏛  Estudante de Ciências da Computação aficionado por Programação Competitiva
+- 👨‍💻 Faço parte da equipe da entidade de cultura hacker HackoonSpace
+- 🖥 Técnico de laboratório de informática na UFSCar-So
+- 🌱 Aprendendo C/C++
+- 🕹 Apaixonado por games, mangás e star wars!
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohaas&show_icons=true&theme=dark&border_radius=20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohaas&layout=compact&theme=dark&border_radius=20">
+</div>
