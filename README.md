@@ -18,10 +18,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrohaas&show_icons=true&theme=dark&border_radius=20">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohaas&layout=compact&theme=dark&border_radius=20">
 </div>
-
-##
-
 <br>
 <div>
-  <a href="https://www.linkedin.com/in/opedroalves/" target="_blank"><img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/opedroalves/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/opedro.haas/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+
