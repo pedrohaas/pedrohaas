@@ -3,7 +3,7 @@
 - 🏛  Estudante de Ciências da Computação aficionado por Programação Competitiva
 - 👨‍💻 Faço parte da equipe da entidade de cultura hacker HackoonSpace
 - 🖥 Técnico de laboratório de informática na UFSCar-So
-- 🌱 Aprendendo C/C++
+- 🌱 Aprendendo Java
 - 🕹 Apaixonado por games, mangás e star wars!
 
 <div style="display: inline_block"><br>
