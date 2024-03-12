@@ -1,9 +1,9 @@
 ### Olá! 
 
-- 🏛  Estudante de Ciências da Computação aficionado por Programação Competitiva
-- 👨‍💻 Faço parte da equipe da entidade de cultura hacker HackoonSpace
+- 🏛  Estudante de Ciências da Computação 
+- 👨‍💻 Faço parte da organização da entidade de Programação Competitiva da UFSCar-So
 - 🖥 Técnico de laboratório de informática na UFSCar-So
-- 🌱 Aprendendo Java
+- 🌱 Aprendendo IA
 - 🕹 Apaixonado por games, mangás e star wars!
 
 <div style="display: inline_block"><br>
