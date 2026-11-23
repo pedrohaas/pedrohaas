@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 84" width="1200" height="84">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.15" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.85" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="1200" height="84" fill="url(#f)"/></mask>
+  </defs>
+  <g mask="url(#m)">
+    <path d="M80,52 L300,34 L520,50 L740,30 L960,46 L1120,40" fill="none" stroke="#1F2C7A" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="8 7">
+      <animate attributeName="stroke-dashoffset" values="0;-30" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="80" cy="52" r="4.5" fill="#1F2C7A"/><circle cx="300" cy="34" r="4.5" fill="#1F2C7A"/><circle cx="520" cy="50" r="4.5" fill="#1F2C7A"/><circle cx="740" cy="30" r="4.5" fill="#1F2C7A"/><circle cx="960" cy="46" r="4.5" fill="#1F2C7A"/>
+    <circle cx="1120" cy="40" r="9" fill="none" stroke="#D46A22" stroke-width="2.5"/>
+    <circle cx="1120" cy="40" r="9" fill="none" stroke="#D46A22" stroke-width="2">
+      <animate attributeName="r" values="9;24" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
